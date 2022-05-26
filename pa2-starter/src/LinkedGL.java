@@ -16,6 +16,8 @@ public class LinkedGL<E> implements MyList<E> {
     public LinkedGL(E[] contents) {
         // Fill in this constructor
     }
+   
+	
 
     // Fill in all methods
 
